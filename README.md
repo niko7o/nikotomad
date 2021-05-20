@@ -5,10 +5,6 @@
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikotomad" 
 />
 
-<img
-  width="480"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nikotomad&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
 <!--
 **nikotomad/nikotomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
