@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<img 
+<!-- <img 
   width="480" 
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikotomad" 
-/>
-
+/> -->
 
 <!--
 **nikotomad/nikotomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
