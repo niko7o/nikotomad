@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[<img src="https://api.speedtyper.dev/users/nikotomad/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/nikotomad) 
+[<img src="https://api.speedtyper.dev/users/nikotomad/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/nikotomad) 
+[<img src="https://api.speedtyper.dev/users/nikotomad/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/nikotomad)
+
+
 <!-- <img 
   width="480" 
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikotomad" 
@@ -19,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
